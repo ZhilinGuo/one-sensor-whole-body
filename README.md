@@ -2,7 +2,7 @@
 
 *3D Body Pose from a Single Consumer Earbud IMU*
 
-### [Paper (HUMA '26, ACM MM)](https://doi.org/10.1145/3841192.3841753)
+### [arXiv](https://arxiv.org/abs/2609.34978) | [ACM Digital Library](https://doi.org/10.1145/3841192.3841753)
 
 **[Zhilin Guo](https://zhilinguo.github.io/)¹, [Boqiao Zhang](https://boqiaoz00.github.io/boqiao_steven_zhang.github.io/)¹, Oszkár Urbán¹, [Josef Bengtson](https://www.chalmers.se/en/persons/bjosef/)², [Hakan Aktas](https://scholar.google.com/citations?user=RxjN5w4AAAAJ&hl=en)¹, [Wenzhao Li](https://wenzhao-cam.github.io/)¹, [Siyu Hong](https://www.linkedin.com/in/siyuhong/)¹, [Kyle Fogarty](https://kyle-fogarty.github.io/)¹, [Chenliang Zhou](https://chenliang-zhou.github.io/)¹, Ali Senguel¹, [Cengiz Oztireli](https://sites.google.com/view/cengiz-oztireli-intro/home)¹**
 
