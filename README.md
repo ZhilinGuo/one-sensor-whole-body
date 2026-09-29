@@ -1,6 +1,4 @@
-# One Sensor, Whole Body
-
-*3D Body Pose from a Single Consumer Earbud IMU*
+# One Sensor, Whole Body — 3D Body Pose from a Single Consumer Earbud IMU
 
 ### [arXiv](https://arxiv.org/abs/2609.34978) | [ACM Digital Library](https://doi.org/10.1145/3841192.3841753)
 
